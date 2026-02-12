@@ -13,7 +13,7 @@ Data Modeling
 DAX (Data Analysis Expressions)
 Data Cleaning & Transformation
 
-🔹 Key Features
+🔹Key Features
 📈 Total Sales & Profit Analysis
 🛒 Category-wise & Product-wise Performance
 🌍 Region-wise Sales Distribution
@@ -21,13 +21,13 @@ Data Cleaning & Transformation
 📅 Monthly & Yearly Sales Trends
 Interactive Filters & Slicers
 
-🔹 Business Insights
+🔹Business Insights
 Identified top-performing products and regions
 Analyzed revenue contribution by customer segments
 Detected seasonal sales patterns
 Compared profit margins across categories
 
-🔹 Learning Outcomes
+🔹Learning Outcomes
 Improved skills in data visualization
 Hands-on experience with DAX formulas
 Dashboard design and storytelling with data
